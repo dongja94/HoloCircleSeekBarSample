@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HoloCircleSeekBar"><attr format="integer" name="wheel_size"/><attr format="integer" name="pointer_size"/><attr format="integer" name="max"/><attr format="boolean" name="show_text"/><attr format="integer" name="start_angle"/><attr format="integer" name="end_angle"/><attr format="integer" name="text_size"/><attr format="integer" name="init_position"/><attr format="string" name="color"/><attr format="string" name="wheel_active_color"/><attr format="string" name="wheel_unactive_color"/><attr format="string" name="pointer_color"/><attr format="string" name="pointer_halo_color"/><attr format="string" name="text_color"/></declare-styleable>
+</resources>
